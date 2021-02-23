@@ -1,0 +1,7 @@
+#cloud-config
+hostname: ${hostname}
+ssh_authorized_keys:
+  - ${ssh_key}
+packages:
+  - htop
+
