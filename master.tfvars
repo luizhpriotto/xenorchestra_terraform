@@ -1,7 +1,7 @@
 ### LOGIN ####
 xo_url = "ws://192.168.1.152"
-xo_username = "xoa"
-xo_password = "L0344zhi"
+xo_username = "terraform"
+xo_password = "terraform"
 #####  VM ####
 pool_name = "node1"
 hostname = "master"
